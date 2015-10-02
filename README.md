@@ -28,12 +28,15 @@ contacttijd: 45 uur, zelfstudie : 11 uur
 **TAs:**
 Thom van de Vin   thom@vandev.in
 
-kenrick ouwehand kenrick.ouwehand@gmail.com
+Kenrick Ouwehand kenrick.ouwehand@gmail.com
 
 Paul Levels pwplevels@gmail.com
 
 Viktor Bensch viktorenmartijn@gmail.com
 
+Daan den Hartog 
+
+Rogier van der Helm rogier.vanderhelm@student-kmt.hku.nl
 
 ###Course Description: 
 
