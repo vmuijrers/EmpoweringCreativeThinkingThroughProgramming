@@ -84,3 +84,5 @@ Mail je resultaten naar je lab begeleiders, zorg dat je alles als losse .py file
 
 Voor vragen of onduidelijkheden, mail naar valentijn.muijrers@hku.nl
 
+#Voor Extra oefeningen kijk op:
+Codingbat.com/Python
