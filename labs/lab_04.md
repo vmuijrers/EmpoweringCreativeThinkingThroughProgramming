@@ -1,10 +1,10 @@
-## Lab 3: 
+## Lab 4: 
  
 ##### Naming conventions 
 
 Put all of your homework files together into one folder, zip it and email it to your lab assistant with your name_the week.zip 
 
-** Make the subject of the email "lab 2" **
+** Make the subject of the email "INLEVEREN: lab 4" **
 
 **for example:** 
 phoenixperry_02.zip
@@ -70,7 +70,7 @@ input: pancakes(6,2000,750)
 
 output:  With 6 eggs, 2000 ml milk and 750 gram flour, I can make 30 pancakes!
 
-##Bonus: print tevens hoeveel ingredienten je overhoudt
+#Bonus: print tevens hoeveel ingredienten je overhoudt
 
  
 
