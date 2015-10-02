@@ -12,9 +12,9 @@ Studiepunten	: 2 EC
 
 contacttijd: 45 uur, zelfstudie : 11 uur 
 
-**Instructor:** Phoenix Perry
+**Instructor:** Valentijn Muijrers
 
-**Email:** phoenix.perry@hku.nl 
+**Email:** valentijn.muijrers@hku.nl 
 
 --
 ###Assignments and notes will be posted weekly on github here:
