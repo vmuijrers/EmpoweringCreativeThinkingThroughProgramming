@@ -32,12 +32,12 @@ In processing, create a class named "Square(object)", which has the following at
 Also give the Square class the method "def display", this is where you draw the square to the screen.
 If you created your class in a separate file, use "from <fileName> import Square" in your main sketch, to access the Square class.
 Make sure you create one instance of the Square class in your main sketch file by calling "Square(xPos,yPos,width,height, col)"
-Hint: you can create a color as follows: color(<value>,<value>,<value>) in order red, green, blue with values between 0 and 255.
+Hint: you can create a color as follows: color(value,value,value) in order red, green, blue with values between 0 and 255.
 
 #7_2: Random Squares!
 
 Now create a list of 200 squares with different x and y positions and widths and heights and colors (you may need a for-loop to do this).
-Hint: to get different values for every square you can use the random(0, <maxRange>) function to get a random value between 0 and maxRange.
+Hint: to get different values for every square you can use the random(0, maxRange) function to get a random value between 0 and maxRange.
 
 #Bonus: 7_3: Marching Squares!
 
