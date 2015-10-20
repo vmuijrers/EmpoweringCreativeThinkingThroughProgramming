@@ -40,7 +40,7 @@ Hint: you can create a color as follows: color(value,value,value) in order red, 
 
 #7_2: Random Squares!
 
-In the same project, create a list of 200 squares by using your Square class which you created in 7_1 with different x and y positions and widths and heights and colors (you may need a for-loop to do this).
+In the same project, create a list of 200 squares in "mySquareProject" by creating 200 Square objects which you created in 7_1 with different x and y positions and widths and heights and colors (you may need a for-loop to do this).
 Hint: to get different values for every square you can use the random(0, maxRange) function to get a random value between 0 and maxRange.
 
 #Bonus: 7_3: Marching Squares!
