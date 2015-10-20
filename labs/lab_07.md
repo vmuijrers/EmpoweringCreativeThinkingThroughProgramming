@@ -25,14 +25,17 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 **After 3 weeks, you immediately get a fail for this lab. 
 
+Download Processing 2.2.1 from processing.org
 
 #7_1: Don't be Square!
 
-In processing, create a class named "Square(object)", which has the following attributes: x (x-position),y (y-position), w (width), h (height), col (color). 
+In Processing:
+First create a new project named "mySquareProject", this project will have a main sketch file, which should be name "Main".  
+Then create a class named "Square(object)" in an new tab named "MySquareTab", which has the following attributes: x (x-position),y (y-position), w (width), h (height), col (color). 
 Also give the Square class the method "def display", this is where you draw the square to the screen.
-If you created your class in a separate file, use "from <fileName> import Square" in your main sketch, to access the Square class.
+If you created your class in a separate file, use "from MySquareTab import Square" in your main sketch, to access the Square class.
 Make sure you create one instance of the Square class in your main sketch file by calling "Square(xPos,yPos,width,height, col)"
-Hint: you can create a color as follows: color(value,value,value) in order red, green, blue with values between 0 and 255.
+Hint: you can create a color as follows: color(value,value,value) in order red, green, blue with values between 0 and 255. So c = color(255,100,125) and then Square(100,200,100,100,c) (this is an example).
 
 #7_2: Random Squares!
 
@@ -41,5 +44,7 @@ Hint: to get different values for every square you can use the random(0, maxRang
 
 #Bonus: 7_3: Marching Squares!
 
-Now add a method to your Square class named "move()", which makes the squares move and bounce against the sides of the screen so that they stay in the view. (You may need some extra attributes like "speed" for this to work.
-You now have made a screensaver!
+Now add a method to your Square class named "move()", which makes the squares move and bounce against the sides of the screen so that they stay in the view. (You may need some extra attributes like "xSpeed" and "ySpeed" for this to work.
+You can ask for the width of the whole level by simply saying "width" without quotes and "height" for the height of the level.
+We have to check for a square if their x and y position are still inside the level and if not reverse their speed values.
+If all works well, you have now created a screensaver!
