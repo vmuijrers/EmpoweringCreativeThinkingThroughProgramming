@@ -30,7 +30,7 @@ Download Processing 2.2.1 from processing.org
 #7_1: Don't be Square!
 
 In Processing:
-First create a new project named "mySquareProject", this project will have a main sketch file, which should be name "Main".  
+First create a new project named "mySquareProject", this project will have a main sketch file with the same name.  
 Then create a class named "Square(object)" in an new tab named "MySquareTab", which has the following attributes: x (x-position),y (y-position), w (width), h (height), col (color). 
 Also give the Square class the method "def display", this is where you draw the square to the screen.
 If you created your class in a separate file, use "from MySquareTab import Square" in your main sketch, to access the Square class.
@@ -39,7 +39,7 @@ Hint: you can create a color as follows: color(value,value,value) in order red, 
 
 #7_2: Random Squares!
 
-Now create a list of 200 squares with different x and y positions and widths and heights and colors (you may need a for-loop to do this).
+Now create a list of 200 squares by using your Square class which you created in 7_1 with different x and y positions and widths and heights and colors (you may need a for-loop to do this).
 Hint: to get different values for every square you can use the random(0, maxRange) function to get a random value between 0 and maxRange.
 
 #Bonus: 7_3: Marching Squares!
