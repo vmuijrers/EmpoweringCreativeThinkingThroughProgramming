@@ -28,7 +28,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 #6_1: Reversed Range
 Write a function named "def reversedRange(list,start,end)" which takes a list, a start and an end index (excluding) and returns a list which gives the part of the inputlist in that range, but reversed.
-hint: use the splice operator [start : end : step] to get a part of a list, so list[0:3:1] gives us the first three elements of a list
+hint: use the slice operator [start : end : step] to get a part of a list, so list[0:3:1] gives us the first three elements of a list
 
 print reversedRange([1,5,6,7,10,8],2,4) >>> output: [7,6]
 print reversedRange([1,5,6,7],0,3) >>> output: [6,5,1]
