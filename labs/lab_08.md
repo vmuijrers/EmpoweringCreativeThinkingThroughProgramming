@@ -1,9 +1,7 @@
-## Lab 8 
+#Lab 8: Bouncing Ball
  
 #Download Processing 2.2.1 from processing.org
 ## You need only one processing project for this lab, choose a level of difficulty and hand in your project at the end of the bijles!
-
-#Lab 8: Bouncing Ball
 
 #Basic:
 Maak een class genaamd Ball met de eigenschappen: x-positie, y-positie, xSpeed en ySpeed, w(idth) en h(eight).
