@@ -5,16 +5,19 @@
 
 #Basic:
 Maak een class genaamd Ball met de eigenschappen: x-positie, y-positie, xSpeed en ySpeed, w(idth) en h(eight).
+(Wanneer je een cirkel wilt tekenen kun je in plaats van width en height een radius eigenschap gebruiken)
 Voeg daarna de methoden: display(self) en move(self) toe aan je class.
 Maak een instantie van deze class en zorg dat deze binnen de randen van het scherm beweegt.
 
 #Advanced:
 Maak een class genaamd Ball met de eigenschappen: x-positie, y-positie, xSpeed en ySpeed, w(idth) en h(eight).
+(Wanneer je een cirkel wilt tekenen kun je in plaats van width en height een radius eigenschap gebruiken)
 Voeg daarna de methoden: display(self) en move(self) toe aan je class.
 Maak meerdere instanties van deze class en zorg dat deze binnen de randen van het scherm bewegen. Sla je instanties op in een lijst.
 
 #Expert:
 Maak een class genaamd Ball met de eigenschappen: x-positie, y-positie, xSpeed en ySpeed, w(idth) en h(eight).
+(Wanneer je een cirkel wilt tekenen kun je in plaats van width en height een radius eigenschap gebruiken)
 Voeg daarna ten minste de methoden: display(self) en move(self) toe aan je class.
 Maak meerdere instanties van deze class en zorg dat deze binnen de randen van het scherm bewegen. Sla je instanties op in een lijst.
 Voeg een of meer van de volgende onderwerpen zelf toe:
