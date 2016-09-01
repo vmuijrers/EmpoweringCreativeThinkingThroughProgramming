@@ -4,13 +4,13 @@
 ![alt text](http://www.phoenixperry.com/cats/creativeCat.gif)  
 
 
-Osiriscode 		: G&I-1-ECTTP-15
+Osiriscode 		: G&I-1-ECTTP-16
 
-Tijdvak 			: Blok 1 en 2	  
+Tijdvak 			: Blok 1	  
 
-Studiepunten	: 2 EC	  
+Studiepunten	: 1 EC	  
 
-contacttijd: 45 uur, zelfstudie : 11 uur 
+contacttijd: 24 uur, zelfstudie : 4 uur 
 
 **Instructor:** Valentijn Muijrers
 
@@ -18,25 +18,15 @@ contacttijd: 45 uur, zelfstudie : 11 uur
 
 --
 ###Assignments and notes will be posted weekly on github here:
-	https://github.com/phoenixperry/hku_python 
+	https://github.com/vmuijrers/ECTTP 
 --
 
-**Lab Instructors:** Saskia Freeke, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
+**Lab Instructors:** Vincent Booman, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
 
-**Email:** saskia.freeke@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
+**Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 
-**TAs:**
-Thom van de Vin   thom@vandev.in
+**Student Assistenten:**
 
-Kenrick Ouwehand kenrick.ouwehand@gmail.com
-
-Paul Levels pwplevels@gmail.com
-
-Viktor Bensch viktorenmartijn@gmail.com
-
-Daan den Hartog 
-
-Rogier van der Helm rogier.vanderhelm@student-kmt.hku.nl
 
 ###Course Description: 
 
@@ -49,17 +39,12 @@ This class adheres to the [Open Code of Conduct][code-of-conduct]. By participat
 ---
 
 ###Language: 
-Python 2.7.10   
-
+*Python - 3.5.2   
+	https://www.python.org/downloads/
+	
 ###Software:  
 
-* Pycharm Community Edition 
-
-	https://www.jetbrains.com/pycharm/download/
-
-* Processing - 2.2.1 
-**( Make sure to get the right version! Scroll down to see it. )**
-
+* Processing - 3.2.1 
 	https://processing.org/download/?processing 
 
 #####Books
@@ -88,7 +73,7 @@ Dr. Chuck has an online code grader that should help you out which is awesome. A
 
 https://www.youtube.com/watch?v=slscHD40r78&feature=youtu.be
 
-#####Other optional online learning systems for people how don't like longer videos x
+#####Other optional online learning systems for people who don't like longer videos
 
 Resources: 
 
@@ -111,69 +96,20 @@ https://www.codecademy.com/en/tracks/python
 ###Labs
 Each week there will be a lab assignment here in a folder called lab
 
-You are required to attend the lab session listed in your schedule. If you miss more than 3 labs, you must provide a valid reason. More than 3 absences is unacceptable. You will need to do make up work should you miss this many labs. See your lab instructor for more information. There you need to you your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
+You are required to attend the lab session listed in your schedule. If you miss more than 3 labs, you must provide a valid reason. More than 3 absences is unacceptable. You will need to do make up work should you miss this many labs. See your lab instructor for more information. There you need to do your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
 ###All of the code for each week will be pushed up to github.com here 
 
 
-#####Week One: Installation and Course Overview  
-* Watch: Video 1 
-* Read: Read:  Python for Informatics Chapter 1
-* Do:  lab_01.md
- 
-#####Week Two: Variables and Statements
-* Watch:  Video 2 
-* Read:  Python for Informatics Chapter 2
-* Do: lab_02.md
-
-#####Week Three:  Conditions 
-* Watch:  Video 3 
-* Read:  Python for Informatics Chapter 3
-* Do: lab_03.md
-
-#####Week Four: Functions 
-* Watch:  Video 4
-* Read:  Python for Informatics Chapter 4
-* Do: lab_04.md
-
-#####Week Five: Iteration 
-* Watch:  Video 5
-* Read:  Python for Informatics Chapter 5
-* Do: lab_05.md
-
-
-#####Week Six: Strings 
-* Watch:  Video 6
-* Read:  Python for Informatics Chapter 6
-* Do: lab_06.md
-
-#####Week Seven: Files  
-* Watch:  Video 7
-* Read:  Python for Informatics Chapter 7
-* Do: lab_07.md
-
-#####Week Eight: Lists   
-* Watch:  Video 8
-* Read:  Python for Informatics Chapter 8
-* Do: lab_08.md
-
-#####Week Nine: Dictionaries & Tuples 
-* Watch:  Video 8, Video 9 
-* Read:  Python for Informatics Chapter 8 & 9 
-* Do: lab_08.md
-
-#####Week Ten: Classes and Objects     
-* Read:  Think Python Chapter 16 
-* Do: lab_10.md
-
-#####Week Eleven: Classes and Objects 
-* Read:   Think Python Chapter 17  
-* Do: lab_11.md
-
-#####Week Twelve: Review  
-* Do: lab_12.md
-
-
-Note: I am leaving the HKU on Sept 31st. After that you'll have a new teacher. I'm joining Goldsmiths at the University of London. After then, find me at @phoenixperry on twitter 
+#####Week One: Course overview
+#####Week Two: Variables 
+#####Week Three: Conditions and Operators
+#####Week Four: Loops 
+#####Week Five: Functions
+### First Test!
+#####Week Six: Lists   
+#####Week Seven: Classes and Objects  
+#####Week Eight: (Files, Exceptions)
+### Second Test!
 
 ![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
