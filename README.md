@@ -103,13 +103,17 @@ You are required to attend the lab session listed in your schedule. If you miss 
 
 #####Week One: Course overview
 #####Week Two: Variables 
-#####Week Three: Conditions and Operators
-#####Week Four: Loops 
-#####Week Five: Functions
-### First Test!
-#####Week Six: Lists   
-#####Week Seven: Classes and Objects  
-#####Week Eight: (Files, Exceptions)
+#####Week Three: Operators
+#####Week Four: Conditions 
+#####Week Five: Loops 
+#####Week Six: Functions
+#####Week Seven:    
+#####Week Eight: (Files, Exceptions, IO)
+###First Test!
+#####Week Eleven: Lists   
+#####Week Twelve: Classes and Objects
+#####Week Thirteen:
+#####Week Fourteen:
 ### Second Test!
 
 ![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
