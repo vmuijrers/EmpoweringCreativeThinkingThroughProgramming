@@ -39,7 +39,7 @@ This class adheres to the [Open Code of Conduct][code-of-conduct]. By participat
 ---
 
 ###Language: 
-*Python - 3.5.2   
+* Python - 3.5.2   
 	https://www.python.org/downloads/
 	
 ###Software:  
