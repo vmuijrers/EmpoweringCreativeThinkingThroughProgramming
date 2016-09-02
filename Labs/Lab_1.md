@@ -40,7 +40,7 @@ Create a program which prints "Hello World", use the print function to print
 
 Go to http://py.processing.org/reference/ and look for the function called size()
 Adjust the screen size by using the size function 
-Then look for the rec() function
+Then look for the rect() function
 Use it to draw a rectangle on your screen
 
 Try storing the numbers you use by making a variable for each number, if you don't know how to create a variable, check the slides or ask the student assistents!
