@@ -62,12 +62,10 @@ Why not give this site a try. It's super awesome and very clear and gives you im
 http://www.learnpython.org  
 
 2. Code Academy  
-
 You can follow part of this online course to get a grip on the basics of Python: 
 https://www.codecademy.com/en/tracks/python
 
 3. CodingBat
-
 Do you want to test your coding skills with challenges?
 http://codingbat.com/python
 
