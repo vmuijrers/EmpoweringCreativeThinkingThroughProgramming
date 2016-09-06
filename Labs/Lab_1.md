@@ -20,8 +20,6 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 *Readability* | The code is exceptionally well organized and very easy to follow. | The code is fairly easy to read. | The code is readable only by someone who knows what it is supposed to be doing.| The code is poorly organized and very difficult to read.|
 *Delivery* |The program was delivered on time. | |  |  The Code was not delivered on time (within one week)
 
-**After 3 weeks of not handing in your code, you immediately get a fail for this lab. 
-
 
 ##Exercise 1_0 
 
