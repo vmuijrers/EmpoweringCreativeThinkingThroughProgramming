@@ -2,11 +2,14 @@
  
 ##### Naming conventions 
 
-Put all of your homework files together into one folder, zip it and email it to your lab assistant with your studentnumber_yourname_the week.zip 
+Put all of your homework files together into one folder, zip it and email it to your lab assistant with your yourname_studentnumber_lab_#.zip 
 
 **for example:** 
-1337_valentijnmuijrers_01.zip
+valentijnmuijrers_1337_Lab_01.zip
 
+Make sure to name your topic email's topic as follows:
+INLEVEREN: ECTTP_Lab_#_Voornaam_Achternaam_StudentNummer
+(voorbeeld: INLEVEREN: ECTTP_Lab_1_Valentijn_Muijrers_1337)
 
 ##### Due Date 
 
