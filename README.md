@@ -20,7 +20,7 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 
 **Lab Instructors:** Vincent Booman, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
 
-**Email:** vincent_booman@msn.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
+**Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 
 **Student Assistenten:**
 
