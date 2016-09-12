@@ -18,11 +18,13 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 	https://github.com/vmuijrers/ECTTP 
 --
 
-**Lab Instructors:** Vincent Booman, Aaron Oostdijk, Valentijn Muijrers, Ton Markus 
+**Lab Instructors:** Vincent Booman, Aaron Oostdijk, Ton Markus en Valentijn Muijrers
 
 **Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 
-**Student Assistenten:**
+**Student Assistenten:** Abe Vos, Kevin Derksen en Mesut Pehlivan
+
+**Email:** abe.vos@student.hku.nl, kevin.derksen@student.hku.nl, mesut.pehlivan@student.hku.nl
 
 
 ###Course Description: 
