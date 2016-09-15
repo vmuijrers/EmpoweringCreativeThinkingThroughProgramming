@@ -31,11 +31,11 @@ Note: Check the reference online on how to check if a specific key is pressed
 
 ##Exercise 3_1	 
 
-Change the color of the rectangle depending on its position on screen:
-- If the square is in the left top of the screen, it becomes blue
-- If the square is in the left bottom of the screen, it becomes orange
-- If the square is in the right bottom of the screen, it becomes green
-- If the square is in the right top of the screen, it becomes yellow
+Change the color of the rectangle depending on its position on screen (divide the screen in four equal areas):
+- If the square is in the left top area of the screen, it becomes blue
+- If the square is in the left bottom area of the screen, it becomes orange
+- If the square is in the right bottom area of the screen, it becomes green
+- If the square is in the right top area of the screen, it becomes yellow
 
 ##Exercise 3_2  
 
@@ -43,9 +43,9 @@ Double the size of the rectangle when the spacebar is pressed.
 Create an integer variable which counts until 60 and then change the size of the rectangle back to its original size. 
 (The rectangle should have a doubled size for 60 frames and then turn back to its original size).
 When the size of the rectangle is doubled, change the color of the rectangle depending on its position on screen as follows:
-- If the square is in the left top of the screen, it becomes magenta
-- If the square is in the left bottom of the screen, it becomes red
-- If the square is in the right bottom of the screen, it becomes cyan
-- If the square is in the right top of the screen, it becomes white
+- If the square is in the left top area of the screen, it becomes magenta
+- If the square is in the left bottom area of the screen, it becomes red
+- If the square is in the right bottom area of the screen, it becomes cyan
+- If the square is in the right top area of the screen, it becomes white
 (Extra challenge: let the size increase and decrease over time instead of setting the size directly, look for the lerp-function in the reference)
 
