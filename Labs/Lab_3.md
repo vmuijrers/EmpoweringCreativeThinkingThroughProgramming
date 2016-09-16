@@ -1,19 +1,5 @@
 ## Lab 3: 
  
-##### Naming conventions 
-
-Put all of your homework files together into one folder, zip it and email it to your lab assistant with your yourname_studentnumber_lab_#.zip 
-
-**for example:** 
-valentijnmuijrers_1337_Lab_01.zip
-
-Make sure to name your topic email's topic as follows:
-INLEVEREN: ECTTP_Lab_#_Voornaam_Achternaam_StudentNummer
-(voorbeeld: INLEVEREN: ECTTP_Lab_1_Valentijn_Muijrers_1337)
-
-##### Due Date 
-
-Turn each lab in before the next lab (one week later). 
 
 ##### Grading Matrix 
 
@@ -49,3 +35,21 @@ When the size of the rectangle is doubled, change the color of the rectangle dep
 - If the square is in the right top area of the screen, it becomes white
 (Extra challenge: let the size increase and decrease over time instead of setting the size directly, look for the lerp-function in the reference)
 
+
+##### INLEVEREN
+
+##Put all of your code into a single sketch and zip your projectfolder, attach the .zip to an email to your lab assistant with the following naming conventions: 
+
+Zipname:
+yourname_studentnumber_lab_#.zip 
+(voorbeeld: valentijnmuijrers_1337_Lab_01.zip)
+
+Email name:
+INLEVEREN: ECTTP_Lab_#_Voornaam_Achternaam_StudentNummer
+(voorbeeld: INLEVEREN: ECTTP_Lab_1_Valentijn_Muijrers_1337)
+
+##DO NOT SEND A RAR, THE MAIL CLIENT WILL NOT ACCEPT THIS
+
+##### Due Date 
+
+Turn each lab in before the next lab (one week later). 
