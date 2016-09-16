@@ -29,7 +29,7 @@ Try to make it go back and forth so that it never leaves the screen (hint: check
 
 ##INLEVEREN
 
-##Put all of your code into a single sketch and zip your projectfolder, attach the .zip to an email to your lab assistant with the following naming conventions: 
+##Put all of your code into a single sketch and zip your projectfolder, attach the .zip to an email to your lab teacher with the following naming conventions: 
 
 Zipname:
 yourname_studentnumber_lab_#.zip 
