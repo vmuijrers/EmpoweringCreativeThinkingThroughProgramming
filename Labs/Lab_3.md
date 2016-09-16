@@ -36,7 +36,7 @@ When the size of the rectangle is doubled, change the color of the rectangle dep
 (Extra challenge: let the size increase and decrease over time instead of setting the size directly, look for the lerp-function in the reference)
 
 
-#####INLEVEREN
+##INLEVEREN
 
 ##Put all of your code into a single sketch and zip your projectfolder, attach the .zip to an email to your lab assistant with the following naming conventions: 
 
@@ -50,6 +50,6 @@ INLEVEREN: ECTTP_Lab_#_Voornaam_Achternaam_StudentNummer
 
 ##DO NOT SEND A RAR, THE MAIL CLIENT WILL NOT ACCEPT THIS
 
-##### Due Date 
+##Due Date 
 
 Turn each lab in before the next lab (one week later). 
