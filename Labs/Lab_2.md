@@ -27,7 +27,7 @@ Make a blue square which moves from the right bottom corner to the left top of t
 Try to make it go back and forth so that it never leaves the screen (hint: check the reference for the if-statement)
 
 
-##### INLEVEREN
+#####INLEVEREN
 
 ##Put all of your code into a single sketch and zip your projectfolder, attach the .zip to an email to your lab assistant with the following naming conventions: 
 
