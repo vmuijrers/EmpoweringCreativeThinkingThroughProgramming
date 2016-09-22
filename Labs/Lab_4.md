@@ -18,7 +18,7 @@ Make it so that when the user clicks the left mouseButton a score of 10 is added
 ##Exercise 4_1	 
 
 Create a rectangle on screen and make it so that when the user clicks inside the rectangle, a score of 20 is added to the score value.  
-Set the position to a new random position within the screen after it is clicked.  
+Set the position (note that a position consists of two values, x and y) of the rectangle to a new random position within the screen after it is clicked.  
 Set the size of the rectangle to a random value between 50 and 200 after it is clicked.  
 
 ##Exercise 4_2  
