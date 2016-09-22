@@ -12,7 +12,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 ##Exercise 4_0 
 
-Create a textfield which shows a score (You can use the text(StringValue, IntegerXposition, IntegerYposition) for the drawing of text), starting at zero.  
+Create a textfield which shows a score as follows "Score: <score>" (You can use the text(StringValue, IntegerXposition, IntegerYposition) for the drawing of text), starting at zero.  
 Make it so that when the user clicks the left mouseButton a score of 10 is added to the result.  
 
 ##Exercise 4_1	 
