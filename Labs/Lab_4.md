@@ -28,6 +28,7 @@ current value and the newValue. (Use max 60 frames for the lerp)
 Instead of setting the new position directly, make it so that the rectangle lerps towards its new position (visually it will slide
 towards its new position).(Use max 60 frames for the lerp)  
 Instead of setting the new size directly, make it so that the rectangle lerps towards its new size (use max 60 frames for the lerp).  
+Make sure the rectangle cannot be clicked while it is moving.
 
 ##INLEVEREN
 
