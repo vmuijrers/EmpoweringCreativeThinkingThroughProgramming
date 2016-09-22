@@ -12,22 +12,22 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 ##Exercise 4_0 
 
-Create a textfield which shows a score (You can use the text(StringValue, IntegerXposition, IntegerYposition) for the drawing of text), starting at zero.
-Make it so that when the user clicks the left mouseButton a score of 10 is added to the result.
+Create a textfield which shows a score (You can use the text(StringValue, IntegerXposition, IntegerYposition) for the drawing of text), starting at zero.  
+Make it so that when the user clicks the left mouseButton a score of 10 is added to the result.  
 
 ##Exercise 4_1	 
 
-Create a rectangle on screen and make it so that when the user clicks inside the rectangle, a score of 20 is added to the score value.
-Set the position to a new random position within the screen after it is clicked.
-Set the size of the rectangle to a random value between 50 and 200 after it is clicked.
+Create a rectangle on screen and make it so that when the user clicks inside the rectangle, a score of 20 is added to the score value.  
+Set the position to a new random position within the screen after it is clicked.  
+Set the size of the rectangle to a random value between 50 and 200 after it is clicked.  
 
 ##Exercise 4_2  
 
 Instead of setting the score directly, make it so that the score lerps towards the new value, showing all values in between the
-current value and the newValue. (Use max 60 frames for the lerp)
+current value and the newValue. (Use max 60 frames for the lerp)  
 Instead of setting the new position directly, make it so that the rectangle lerps towards its new position (visually it will slide
-towards its new position).(Use max 60 frames for the lerp)
-Instead of setting the new size directly, make it so that the rectangle lerps towards its new size (use max 60 frames for the lerp).
+towards its new position).(Use max 60 frames for the lerp)  
+Instead of setting the new size directly, make it so that the rectangle lerps towards its new size (use max 60 frames for the lerp).  
 
 ##INLEVEREN
 
@@ -35,7 +35,7 @@ Instead of setting the new size directly, make it so that the rectangle lerps to
 
 Zipname:
 yourname_studentnumber_lab_#.zip 
-(voorbeeld: valentijnmuijrers_1337_Lab_04.zip)
+(voorbeeld: valentijnmuijrers_1337_Lab_04d.zip)
 
 Email name:
 INLEVEREN: ECTTP_Lab_#_Voornaam_Achternaam_StudentNummer
