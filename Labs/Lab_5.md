@@ -15,13 +15,13 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 Write a program that prints the numbers from 1 to 100.  
 But for multiples of three print `high` instead of the number and for the multiples of five print `five`.  
 For numbers which are multiples of both three and five print `highfive`.
-
+d
 ##Exercise 5_1	 
 
 Create a chessboard with black and white rectangles of a size 100x100 on your screen.  
 A chessboard has 8x8 squares alternating between black and white.
 
-Hint: You can use the modulo operator to check if a tile is odd or even
+Hint: You can use the modulo operator to check if a square is odd or even
 
 ##Exercise 5_2  
 
