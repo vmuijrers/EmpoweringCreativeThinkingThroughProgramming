@@ -23,8 +23,8 @@ output:
 
 Write a function called XOR(a, b), which, given two booleans a and b, returns True if exactly one of the two inputs is True, otherwise return False
 
-Example:
-XOR(True, False) -> True
+Example:  
+XOR(True, False) -> True  
 XOR(True, True) -> False
 
 
