@@ -14,9 +14,9 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 Write a function called wheels(cars, trikes, bikes), which, given how many cars, trikes (threewheeler) and bikes you have, returns how many wheels you have in total.
 
-Example:
-wheels(3,5,2)
-output:
+Example:  
+wheels(3,5,2)  
+output:  
 3 * 4(cars) + 5 * 3(trikes) + 2 * 2(bikes) = 31
 
 ##Exercise 6_1	 
