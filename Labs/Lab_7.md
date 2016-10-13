@@ -29,9 +29,9 @@ Gegeven twee woorden, schrijf een functie genaamd “def scramble(word1, word2):
 Wanneer de twee woorden ongelijk zijn kun je ‘0’ (nul) gebruiken als opvulling.
 Zorg dat het gescramblede woord niet eindigt op een ‘0’.
 
-Voorbeeld van outputs:
-scramble(‘scrambled’, ‘eggs’) –> secgrgasm0b0l0e0d
-scramble(‘kipje’,’kaasje’) –> kkiapajsej0e
+Voorbeeld van outputs:  
+scramble(‘scrambled’, ‘eggs’) –> secgrgasm0b0l0e0d  
+scramble(‘kipje’,’kaasje’) –> kkiapajsej0e  
 
 hints:
 Om de lengte van een woord op te vragen kun je len() gebruiken dus len(‘kipje’)  geeft 5 terug
