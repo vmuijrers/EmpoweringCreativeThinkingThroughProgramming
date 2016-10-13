@@ -19,9 +19,9 @@ Dus 15 wordt afgerond naar 20 en 32 wordt afgerond naar 30.
 Om herhaling van code te voorkomen, schrijf een hulpfunctie genaamd “def round10(num):” en roep deze 3 keer aan.  
 Zorg dat er geen print-aanroepen voorkomen binnen je functies, gebruik deze alleen om het resultaat te printen.
 
-Voorbeeld van outputs:
-round_sum(16,17,18)   –>  60
-round_sum(22,39,55) –>  120
+Voorbeeld van outputs:  
+round_sum(16,17,18)   –>  60  
+round_sum(22,39,55) –>  120  
 
 ##Opdracht 7_1: Scrambled Eggs
 
