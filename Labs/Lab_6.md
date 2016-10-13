@@ -15,9 +15,9 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 Write a function called wheels(cars, trikes, bikes), which, given how many cars, trikes (threewheeler) and bikes you have, returns how many wheels you have in total.
 
 Example:  
-wheels(3,5,2)  
-output:  
-3 * 4(cars) + 5 * 3(trikes) + 2 * 2(bikes) = 31
+wheels(3,5,2)  -> 31
+wheels(5,1,1) -> 25  
+
 
 ##Exercise 6_1	 
 
@@ -30,15 +30,17 @@ XOR(True, True) -> False
 
 ##Exercise 6_2  
 
-Write a function called pancakes(eggs, milk, flour) which returns how many pancakes you can make from the given ingredients (eggs denotes how many eggs you have, milk denotes how many ml milk you have, flour how many grams of flower you have).  
+Write a function called pancakes(eggs, milk, flour) which returns how many pancakes you can make (as an integer) from the given ingredients (eggs denotes how many eggs you have, milk denotes how many ml milk you have, flour how many grams of flower you have).  
 You know that you can make 10 pancakes with 2 eggs, 500 ml melk and 250 grams of flour.  
 You can only make batches of 10 pancakes at once (so if you only have one egg left, you cannot make any more pancakes).
 Print a few results outside your function. Also print how many ingredients you have left.
 
 Example:  
-pancakes(6,2000,1000)  
-Output:  
-You can make: 30 pancakes, with 2 eggs, 1500 ml milk and 750 grams of flour. You have 0 eggs, 500 ml milk and 250 grams of flower left.
+pancakes(6,2000,1000)  -> 30
+pancakes(8,1000,1000)  -> 20
+
+Print example (You can put the print statement in your function, but make sure the function returns just the amount of pancakes):
+"You can make: 30 pancakes, with 6 eggs, 1500 ml milk and 750 grams of flour. You have 0 eggs, 500 ml milk and 250 grams of flower left."
 
 ##INLEVEREN
 

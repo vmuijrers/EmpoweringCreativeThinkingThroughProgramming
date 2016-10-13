@@ -30,7 +30,7 @@ Wanneer de twee woorden ongelijk zijn kun je ‘0’ (nul) gebruiken als opvulli
 Zorg dat het gescramblede woord niet eindigt op een ‘0’.
 
 Voorbeeld van outputs:
-scramble(‘scrambled’, ‘eggs’) –> secgrgasm0b0l0e0d0
+scramble(‘scrambled’, ‘eggs’) –> secgrgasm0b0l0e0d
 scramble(‘kipje’,’kaasje’) –> kkiapajsej0e
 
 hints:
