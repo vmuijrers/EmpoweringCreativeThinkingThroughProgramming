@@ -37,20 +37,20 @@ hints:
 Om de lengte van een woord op te vragen kun je len() gebruiken dus len(‘kipje’)  geeft 5 terug
 Om een bepaalde letter op te vragen van een woord kun je (net als bij een tuple) de index gebruiken dus:
 
-Example: 
-woord = ‘kipje’
-woord[0] –> ‘k’
-woord[4] –> ‘e’
-woord[5] –> Error!
+Example:   
+woord = ‘kipje’  
+woord[0] –> ‘k’  
+woord[4] –> ‘e’  
+woord[5] –> Error!  
 
 ##Opdracht 7_2: Unscrambled Eggs
 
 Gegeven een gescrambled woord van Opdracht 7_1, schrijf een functie “def unscramble(word):” ,wat het woord weer opdeelt in twee woorden en een tuple terug geeft met deze twee woorden (als string) als elementen erin.
 
-Voorbeeld van outputs:
-unscramble(‘kkiapajsej0e’)  –> (‘kipje’,’kaasje’)
-unscramble(‘uengsgcsr0a0m0b0l0e0d0’)  –> (‘unscrambled’,’eggs’)
-
+Voorbeeld van outputs:  
+unscramble(‘kkiapajsej0e’)  –> (‘kipje’,’kaasje’)  
+unscramble(‘uengsgcsr0a0m0b0l0e0d0’)  –> (‘unscrambled’,’eggs’)  
+  
 hint: in deze opdracht kun je de modulo operator (%) gebruiken om te testen of iets even of oneven is
  
 ##INLEVEREN
