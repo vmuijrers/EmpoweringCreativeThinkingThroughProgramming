@@ -73,10 +73,10 @@ def rondom_tien(nummer):
 Vraag 4: Strings
 Schrijf een functie genaamd "def dubbele_letters(woord):", die een string teruggeeft, waarbij elke letter in de originele input wordt herhaald:
 
-voorbeeld output:
-dubbele_letters('The') >>> 'TThhee'
-dubbele_letters('AAbb') >>> 'AAAAbbbb'
-dubbele_letters('Hi-There') >>> 'HHii--TThheerree'
+voorbeeld output:  
+dubbele_letters('The') >>> 'TThhee'  
+dubbele_letters('AAbb') >>> 'AAAAbbbb'  
+dubbele_letters('Hi-There') >>> 'HHii--TThheerree'  
 
 <pre>
 Oplossing:  
