@@ -79,11 +79,12 @@ dubbele_letters('The') >>> 'TThhee'
 dubbele_letters('AAbb') >>> 'AAAAbbbb'
 dubbele_letters('Hi-There') >>> 'HHii--TThheerree'
 
+<pre>
 Oplossing:  
 def dubbele_letters(woord):  
 	result = ""  
 	for i in range(0,len(woord)):  
 		result += woord[i] + woord[i]  
 	return result
-
+</pre>
 Wanneer je klaar bent met de toets kun je je resultaat in een .zip bestand opslaan (je kun alle opdrachten in 1 .py file opslaan met als naam <Voornaam><Achternaam>_Toets_1.py) en deze kun je versturen naar je practicum begeleider. Vermeld bij het onderwerp van je email het volgende: INLEVEREN: ECTTP Toets 1 <Voornaam><Achternaam> en mail deze, je mag pas gaan als er is gecontroleerd of je toets goed is aangekomen bij de docenten
