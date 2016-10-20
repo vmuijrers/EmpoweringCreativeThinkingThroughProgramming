@@ -12,11 +12,11 @@ Schrijf een functie genaamd "optelsom(begingetal, eindgetal):", die een integer 
 Het begingetal is altijd kleiner dan het eindgetal (hier mag je van uit gaan).
 De functie geeft de som terug van alle tussenliggende getallen, inclusief het begingetal en inclusief het eindgetal.
 
-voorbeelden van output:
-optelsom(4,6) > 4+5+6 = 15
-optelsom(0,4) > 0+1+2+3+4 = 10
+voorbeelden van output:  
+optelsom(4,6) > 4+5+6 = 15  
+optelsom(0,4) > 0+1+2+3+4 = 10  
 
-Oplossing:
+Oplossing:  
 
 def optelsom(begin, eind):
 	result = 0
@@ -36,21 +36,21 @@ Als het doordeweeks is (ma t/m vr) en we zijn wel op vakantie dan willen we om "
 Let op! Zorg dat je functie een waarde terug geeft, dus gebruik het keywoord 'return' en dan de tijd waarop je op wilt staan of dat de klok op "off" staat
 Je hoeft niks te printen voor deze functie.
 
-voorbeelden van output:
-alarm_klok(3,True) >>> "10:00"
-alarm_klok(3,False) >>> "7:00"
-alarm_klok(7,True) >>> "off"
-alarm_klok(6,False) >>> "10:00"
+voorbeelden van output:  
+alarm_klok(3,True) >>> "10:00"  
+alarm_klok(3,False) >>> "7:00" 
+alarm_klok(7,True) >>> "off"  
+alarm_klok(6,False) >>> "10:00"  
 
-Oplossing:
-def alarm_klok(dag, vakantie):
-	if dag <= 5 and vakantie or dag >5 not vakantie:
-		return "10:00"
-	elif dag <=5 and not vakantie:
-		return "7:00"
-	else:
-	#in alle andere gevallen (dus wanneer het weekend is en we op vakantie zijn)
-		return "off"
+Oplossing:  
+def alarm_klok(dag, vakantie):  
+	if dag <= 5 and vakantie or dag >5 not vakantie:  
+		return "10:00"  
+	elif dag <=5 and not vakantie:  
+		return "7:00"  
+	else:  
+	#in alle andere gevallen (dus wanneer het weekend is en we op vakantie zijn)  
+		return "off"  
 
 
 Vraag 3: Modulo
@@ -58,18 +58,18 @@ Schrijf een functie genaamd "def rondom_tien(nummer):", die een boolean terug ge
 De functie geeft True terug wanneer het nummer (deze is altijd positief) twee of minder verschilt van een tiental (tientallen zijn 0, 10, 20 etc.)
 In alle andere gevallen geeft de functie False terug.
 
-Voorbeelden van output:
-rondom_tien (12) >>> True
-rondom_tien (9) >>> True
-rondom_tien (14) >>> False
-rondom_tien (2) >>> True
+Voorbeelden van output:  
+rondom_tien (12) >>> True  
+rondom_tien (9) >>> True  
+rondom_tien (14) >>> False  
+rondom_tien (2) >>> True  
 
 Hint: je kunt hierbij de modulo operator (%) gebruiken, welke de rest berekent wanneer twee getallen op elkaar worden gedeeld, dus 12 % 5 = 2
 
-Oplossing:
-def rondom_tien(nummer):
-	rest = nummer % 10 # bereken eerst de restwaarde met modulo 10
-	return rest <= 2 or rest >= 8  #geef vervolgens True terug wanneer de rest kleiner of gelijk aan twee is of groter of gelijk aan 8 
+Oplossing:  
+def rondom_tien(nummer):  
+	rest = nummer % 10 # bereken eerst de restwaarde met modulo 10  
+	return rest <= 2 or rest >= 8  #geef vervolgens True terug wanneer de rest kleiner of gelijk aan twee is of groter of gelijk aan 8   
 
 Vraag 4: Strings
 Schrijf een functie genaamd "def dubbele_letters(woord):", die een string teruggeeft, waarbij elke letter in de originele input wordt herhaald:
@@ -79,12 +79,12 @@ dubbele_letters('The') >>> 'TThhee'
 dubbele_letters('AAbb') >>> 'AAAAbbbb'
 dubbele_letters('Hi-There') >>> 'HHii--TThheerree'
 
-Oplossing:
-def dubbele_letters(woord):
-	result = ""
-	for i in range(0,len(woord)):
-		result += woord[i] + woord[i]
+Oplossing:  
+def dubbele_letters(woord):  
+	result = ""  
+	for i in range(0,len(woord)):  
+		result += woord[i] + woord[i]  
 	
-	return result
+	return result  
 
 Wanneer je klaar bent met de toets kun je je resultaat in een .zip bestand opslaan (je kun alle opdrachten in 1 .py file opslaan met als naam <Voornaam><Achternaam>_Toets_1.py) en deze kun je versturen naar je practicum begeleider. Vermeld bij het onderwerp van je email het volgende: INLEVEREN: ECTTP Toets 1 <Voornaam><Achternaam> en mail deze, je mag pas gaan als er is gecontroleerd of je toets goed is aangekomen bij de docenten
