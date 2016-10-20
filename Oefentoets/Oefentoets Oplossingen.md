@@ -18,7 +18,7 @@ optelsom(0,4) > 0+1+2+3+4 = 10
 
 Oplossing:  
 
-def optelsom(begin, eind):  
+def optelsom(begin, eind):
 	result = 0  
 	for i in range(begin, eind+1):  
 		result += i  
