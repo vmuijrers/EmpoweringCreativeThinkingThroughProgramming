@@ -15,15 +15,14 @@ De functie geeft de som terug van alle tussenliggende getallen, inclusief het be
 voorbeelden van output:  
 optelsom(4,6) > 4+5+6 = 15  
 optelsom(0,4) > 0+1+2+3+4 = 10  
-
+<pre>
 Oplossing:  
-
 def optelsom(begin, eind):  
 	result = 0  
 	for i in range(begin, eind+1):  
 		result += i  
 	return result    
-
+</pre>
 
 Vraag 2: Booleans
 Schrijf een functie genaamd "def alarm_klok(dag, vakantie):", die een string teruggeeft, waarbij het volgende geldt:
@@ -41,8 +40,8 @@ alarm_klok(3,True) >>> "10:00"
 alarm_klok(3,False) >>> "7:00" 
 alarm_klok(7,True) >>> "off"  
 alarm_klok(6,False) >>> "10:00"  
-
-Oplossing:  
+<pre> 
+Oplossing: 
 def alarm_klok(dag, vakantie):  
 	if dag <= 5 and vakantie or dag >5 not vakantie:  
 		return "10:00"  
@@ -52,7 +51,7 @@ def alarm_klok(dag, vakantie):
 	#in alle andere gevallen (dus wanneer het weekend is en we op vakantie zijn)  
 		return "off"  
 
-
+</pre>
 Vraag 3: Modulo
 Schrijf een functie genaamd "def rondom_tien(nummer):", die een boolean terug geeft, waarbij het volgende geldt:
 De functie geeft True terug wanneer het nummer (deze is altijd positief) twee of minder verschilt van een tiental (tientallen zijn 0, 10, 20 etc.)
@@ -65,12 +64,12 @@ rondom_tien (14) >>> False
 rondom_tien (2) >>> True  
 
 Hint: je kunt hierbij de modulo operator (%) gebruiken, welke de rest berekent wanneer twee getallen op elkaar worden gedeeld, dus 12 % 5 = 2
-
+<pre>
 Oplossing:  
 def rondom_tien(nummer):  
 	rest = nummer % 10 # bereken eerst de restwaarde met modulo 10  
 	return rest <= 2 or rest >= 8  #geef vervolgens True terug wanneer de rest kleiner of gelijk aan twee is of groter of gelijk aan 8   
-
+</pre>
 Vraag 4: Strings
 Schrijf een functie genaamd "def dubbele_letters(woord):", die een string teruggeeft, waarbij elke letter in de originele input wordt herhaald:
 
