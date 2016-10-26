@@ -42,9 +42,9 @@ Schrijf een functie genaamd lasthalfword(inputString), die gegeven een inputStri
 wat de tweede helft is van de inputString.    
 
 Voorbeelden:  
-halfwoord("WooHoo") -> "Woo"    
-halfwoord("yaya") -> "ya"  
-halfwoord("abcdef") -> "def"  
+lasthalfword("WooHoo") -> "Hoo"    
+lasthalfword("yaya") -> "ya"  
+lasthalfword("abcdef") -> "def"  
  
 # Vraag 4 - Booleans  (4 punten)  
 Schrijf een functie genaamd warm(isRaining, isSummer, isInside), die True teruggeeft wanneer het warm is en anders False.  
