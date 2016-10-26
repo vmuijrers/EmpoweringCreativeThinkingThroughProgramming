@@ -38,7 +38,7 @@ maxSpeed(17, False) -> "30 mph"
 
 	
 # Vraag 3 - Loops (4 punten)  
-Schrijf een functie genaamd lasthalfword(inputString), die gegeven een inputString met een even aantal letters, een string teruggeeft (return)  
+Schrijf een functie genaamd lasthalfword(inputString), die gegeven een inputString met een even aantal letters, een string teruggeeft (return)
 wat de tweede helft is van de inputString.    
 
 Voorbeelden:  
