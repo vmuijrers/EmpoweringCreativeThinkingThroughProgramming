@@ -21,15 +21,15 @@ five_percent(61) -> False
 five_percent(95) -> True    
  
 # Vraag 2 - If-statements (4 punten)    
-Schrijf een functie genaamd maxSpeed(passengers, isBig), die aangeeft hoe hard je mag varen met een boot.
-Return een string waarbij het volgende geldt:
-return "no passengers" wanneer het aantal passengers gelijk is aan 0
-return "100 mph" wanneer de boot groot is en het aantal passengers kleiner of gelijk aan 30 (en groter dan 0).
-return "50 mph" wanneer de boot groot is en het aantal passengers groter dan 30 (en groter dan 0).
-return "75 mph" wanneer de boot niet groot is en het aantal passengers kleiner of gelijk aan 15 (en groter dan 0).
-return "30 mph" wanneer de boot niet groot is en het aantal passengers groter dan 15 (en groter dan 0).
-passengers is een integer die aangeeft hoeveel passagiers er op de boot zijn.
-isBig is een boolean die aangeeft of het schip groot is (True is groot, False is niet groot)
+Schrijf een functie genaamd maxSpeed(passengers, isBig), die aangeeft hoe hard je mag varen met een boot.  
+Return een string waarbij het volgende geldt:  
+return "no passengers" wanneer het aantal passengers gelijk is aan 0  
+return "100 mph" wanneer de boot groot is en het aantal passengers kleiner of gelijk aan 30 (en groter dan 0).  
+return "50 mph" wanneer de boot groot is en het aantal passengers groter dan 30 (en groter dan 0).  
+return "75 mph" wanneer de boot niet groot is en het aantal passengers kleiner of gelijk aan 15 (en groter dan 0).  
+return "30 mph" wanneer de boot niet groot is en het aantal passengers groter dan 15 (en groter dan 0).  
+passengers is een integer die aangeeft hoeveel passagiers er op de boot zijn.  
+isBig is een boolean die aangeeft of het schip groot is (True is groot, False is niet groot)  
 
 Voorbeelden:   
 maxSpeed(10, True) -> "100 mph"  
@@ -37,34 +37,34 @@ maxSpeed(0, True) -> "no passengers"
 maxSpeed(17, False) -> "30 mph"   
 
 	
-# Vraag 3 - Loops (4 punten)
-Schrijf een functie genaamd lasthalfword(inputString), die gegeven een inputString met een even aantal letters, een string teruggeeft (return)
-wat de tweede helft is van de inputString.  
+# Vraag 3 - Loops (4 punten)  
+Schrijf een functie genaamd lasthalfword(inputString), die gegeven een inputString met een even aantal letters, een string teruggeeft (return)  
+wat de tweede helft is van de inputString.    
 
 Voorbeelden:  
 halfwoord("WooHoo") -> "Woo"    
 halfwoord("yaya") -> "ya"  
 halfwoord("abcdef") -> "def"  
  
-# Vraag 4 - Booleans  (4 punten)
-Schrijf een functie genaamd warm(isRaining, isSummer, isInside), die True teruggeeft wanneer het warm is en anders False.
-In de zomer is het warm, tenzij het regent.
-Als het geen zomer is, is het warm als je binnen zit.
-In alle andere gevallen is het niet warm.
+# Vraag 4 - Booleans  (4 punten)  
+Schrijf een functie genaamd warm(isRaining, isSummer, isInside), die True teruggeeft wanneer het warm is en anders False.  
+In de zomer is het warm, tenzij het regent.  
+Als het geen zomer is, is het warm als je binnen zit.  
+In alle andere gevallen is het niet warm.  
 
-isRaining is een boolean die aangeeft of het regent.
-isSummer is een boolean die aangeeft of het zomer is.
-isInside is een boolean die aangeeft of je binnen zit.
+isRaining is een boolean die aangeeft of het regent.  
+isSummer is een boolean die aangeeft of het zomer is.  
+isInside is een boolean die aangeeft of je binnen zit.  
 
 Voorbeelden:  
 warm(True, False, True) -> True  
 warm(False, True, False) -> True  
 warm(True, True, False) -> False  
 	
-# Vraag 5 - Modulo (4 punten)
-Schrijf een functie biggestWaste(nummer1, nummer2, nummer3), die de rest terug geeft (Integer) van de drie inputs.
-De rest van een getal is het meest rechtse getal van een cijfer, dus 31 -> 1.  42 -> 2.
-Hierbij zijn nummer1, nummer2 en nummer3 integers.
+# Vraag 5 - Modulo (4 punten)  
+Schrijf een functie biggestWaste(nummer1, nummer2, nummer3), die de rest terug geeft (Integer) van de drie inputs.  
+De rest van een getal is het meest rechtse getal van een cijfer, dus 31 -> 1.  42 -> 2.  
+Hierbij zijn nummer1, nummer2 en nummer3 integers.  
 
 Voorbeelden:  
 biggestWaste(31, 52 ,  76) -> 6  
