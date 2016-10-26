@@ -12,7 +12,7 @@ De volgende regels zijn van toepassing voor de toets:
 Veel succes!  
   
 # Vraag 1 - Variabelen (4 punten) 
-Schrijf een functie genaamd five_percent(number), die terug geeft True teruggeeft (boolean) wanneer "number" kleiner of gelijk aan 5 is of groter of gelijk aan 95 is, anders geeft de functie False terug.
+Schrijf een functie genaamd five_percent(number), die True teruggeeft (boolean) wanneer "number" kleiner of gelijk aan 5 is of groter of gelijk aan 95 is, anders geeft de functie False terug.  
 number is een integer tussen de 0 en 100.  
 
 Voorbeelden:    
