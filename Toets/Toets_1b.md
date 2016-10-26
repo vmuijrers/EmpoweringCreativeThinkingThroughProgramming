@@ -62,7 +62,7 @@ warm(False, True, False) -> True
 warm(True, True, False) -> False  
 	
 # Vraag 5 - Modulo (4 punten)  
-Schrijf een functie biggestWaste(nummer1, nummer2, nummer3), die de rest terug geeft (Integer) van de drie inputs.  
+Schrijf een functie biggestWaste(nummer1, nummer2, nummer3), die de grootste restwaarde terug geeft (Integer) van de drie inputs.  
 De rest van een getal is het meest rechtse getal van een cijfer, dus 31 -> 1.  42 -> 2.  
 Hierbij zijn nummer1, nummer2 en nummer3 integers.  
 
