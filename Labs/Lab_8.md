@@ -14,7 +14,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 Make a class called Ball, and give it the following attributes: xPos, yPos, xSpeed, ySpeed, radius.
 Also give the Ball class the following methods: def display(), and def move()
-Implement the display-fuction so that it draws a rectangle on screen at position: xPos and yPos with member radius.
+Implement the display-fuction so that it draws a circle on screen at position: xPos and yPos with size "radius".
 Now create an object called myFirstBall in your setup function and call the display function on your object.
 You should see a ball on your screen.
 
