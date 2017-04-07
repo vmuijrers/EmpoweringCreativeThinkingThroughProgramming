@@ -9,13 +9,13 @@ De volgende regels zijn van toepassing voor de toets:
   
 Veel succes!  
 
-##Dodge Pong
-Maak het spel Dodge Pong. Het spel Dodge Pong werkt als volgt: Twee spelers besturen een paddle (blok) net als bij normaal pong, echter kunnen de spelers alleen over de x-as bewegen en niet over de y-as (de Paddles zitten boven en onder in het scherm).  
-Er vliegen meerdere ballen door het veld welke moeten worden ontweken door de spelers. Beide spelers hebben 5 levens. Wanneer een paddle wordt geraakt door een bal, gaat er een leven af van de betreffende speler. 
-Een speler zonder levens is af. De speler die overblijft wint. Het spel kan dan opnieuw gestart worden. 
-Het is toegestaan zelf invulling te geven aan art/toevoegingen te doen en hulpfuncties te schrijven. 
+##Dodge Pong  
+Maak het spel Dodge Pong. Het spel Dodge Pong werkt als volgt: Twee spelers besturen een paddle (blok) net als bij normaal pong, echter kunnen de spelers alleen over de x-as bewegen en niet over de y-as (de Paddles zitten boven en onder in het scherm).    
+Er vliegen meerdere ballen door het veld welke moeten worden ontweken door de spelers. Beide spelers hebben 5 levens. Wanneer een paddle wordt geraakt door een bal, gaat er een leven af van de betreffende speler.   
+Een speler zonder levens is af. De speler die overblijft wint. Het spel kan dan opnieuw gestart worden.   
+Het is toegestaan zelf invulling te geven aan art/toevoegingen te doen en hulpfuncties te schrijven.   
 
-##Basic (V)
+##Basic (V)  
 Om het Basic niveau te halen, moet je tenminste de volgende dingen werkend hebben: 
 - Een Paddle Class die bestuurbaar is door de speler, deze heeft ten minste de volgende eigenschappen: xPos, yPos, w (width), h (height) en moveSpeed 
 - Een Ball Class waarbij tenminste een bal tegen de muren kan kaatsen en in het scherm blijft, deze heeft ten minste de volgende eigenschappen: xPos, yPos, radius, xSpeed en ySpeed 
@@ -25,7 +25,7 @@ Om het Basic niveau te halen, moet je tenminste de volgende dingen werkend hebbe
 - Zorg ervoor dat de Ballen bewegen en tegen de muren kaatsen en dus binnen het speelveld blijven 
 - Zorg ervoor dat de Score het huidige aantal levens van de spelers laat zien op het scherm 
 
-##Advanced (G) 
+##Advanced (G)   
 Om het Advanced nivo te halen, moet je tenminste de volgende dingen werkend hebben: 
 - Gebruik van lijsten voor de Ballen (ten minste 3 ballen) 
 - Zorg ervoor dat elke 200 frames, er een nieuwe bal in het spel komt 
