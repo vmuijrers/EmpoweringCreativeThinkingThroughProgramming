@@ -28,7 +28,7 @@ Om het Basic niveau te halen, moet je ten minste de volgende dingen werkend hebb
 ##Advanced (G)   
 Om het Advanced niveau te halen, moet je tenminste de volgende dingen werkend hebben: 
 - Gebruik van lijsten voor de Ballen (ten minste 3 ballen) 
-- Zorg ervoor dat elke 200 frames, er een nieuwe bal in het spel komt 
+- Zorg ervoor dat elke 200 frames, er een nieuwe bal in het spel bij komt 
 
 ##Expert (ZG)  
 Om het Expert niveau te halen, moet je ten minste de volgende dingen werkend hebben:
