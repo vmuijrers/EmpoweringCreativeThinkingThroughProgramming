@@ -32,7 +32,7 @@ Om het Advanced niveau te halen, moet je tenminste de volgende dingen werkend he
 
 ##Expert (ZG)  
 Om het Expert niveau te halen, moet je ten minste de volgende dingen werkend hebben:
-- Voeg Collision toe op de ballen (gebruik hiervoor de voorbeeld code om Collision te checken tussen een Ball en een Paddle, je kunt deze code toevoegen aan de Ball class) 
+- Voeg Collision toe tussen de ballen en de paddles (gebruik hiervoor de voorbeeld code om Collision te checken tussen een Ball en een Paddle, je kunt deze code toevoegen aan de Ball class) 
 - Update de hitPoints van de spelers wanneer er een collision plaats vindt tussen bal en paddle 
 - Zorg ervoor dat wanneer een speler geen levens meer heeft, het spel gereset wordt (dit betekent dat de Paddles naar hun oorspronkelijke positie gaan, het aantal ballen weer terug wordt gezet op 3 en de score gereset wordt) 
 
