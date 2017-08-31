@@ -1,5 +1,5 @@
 
-##Empowering Creative Thinking Through Programming
+Empowering Creative Thinking Through Programming
 
 Osiriscode 		: G&I-1-ECTTP-16
 
@@ -13,21 +13,21 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 
 **Email:** valentijn.muijrers@hku.nl 
 
---
-###Opdrachten en slides kun je wekelijks vinden op deze site:
+
+--Opdrachten en slides kun je wekelijks vinden op deze site:
 	https://github.com/vmuijrers/ECTTP 
---
+
 
 **Lab Instructors:** Vincent Booman, Aaron Oostdijk, Ton Markus en Valentijn Muijrers
 
 **Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
-
+---
 **Student Assistents:** 
 
 **Email:** 
 
 
-###Course Description: 
+Course Description: 
 
 Deze module introduceert studenten met de relevantie van programmeren in de 21e eeuw als creatieve uiting binnen een sociale context. Rondom een imperatieve programmeertaal worden een gedegen basis aan begrippen, theorie en mindset aangeleerd en komen studenten in aanraking met verschillende tools binnen development; compiler en integrated development environment.
 
@@ -37,16 +37,16 @@ This class adheres to the [Open Code of Conduct][code-of-conduct]. By participat
 
 ---
 
-###Language: 
+Language: 
 * Python - 3.6.2   
 	https://www.python.org/downloads/
 	
-###Software:  
+Software:  
 
 * Processing - 3.3.5 
 	https://processing.org/download/?processing 
 
-#####Books
+Books
 * Course Book 1: Python for Informatics 
 	http://www.pythonlearn.com 
 
@@ -55,7 +55,7 @@ This class adheres to the [Open Code of Conduct][code-of-conduct]. By participat
 
 	Good news! It’s in video, audio and text format! 
 
-#####Handy Websites
+Handy Websites
 
 Resources: 
 
@@ -84,19 +84,19 @@ You are required to attend the lab session listed in your schedule. If you miss 
 
 ###All of the code for each week will be pushed up to github.com here 
 
-#####Week One: Course overview
-#####Week Two: Variables 
-#####Week Three: Operators
-#####Week Four: Conditions 
-#####Week Five: Loops 
-#####Week Six: Functions
-#####Week Seven: Time for Questions and Extra Examples   
-#####Week Eight: (Files, Exceptions, IO)
-###First Test!
-#####Week Eleven: Lists   
-#####Week Twelve: Classes and Objects
-#####Week Thirteen: Time for Questions and Extra Examples   
-#####Week Fourteen:Time for Questions and Extra Examples   
-### Second Test!
+#####Week One: Course overview  
+#####Week Two: Variables   
+#####Week Three: Operators  
+#####Week Four: Conditions   
+#####Week Five: Loops   
+#####Week Six: Functions  
+#####Week Seven: Time for Questions and Extra Examples     
+#####Week Eight: (Files, Exceptions, IO)  
+###First Test!  
+#####Week Eleven: Lists     
+#####Week Twelve: Classes and Objects  
+#####Week Thirteen: Time for Questions and Extra Examples     
+#####Week Fourteen:Time for Questions and Extra Examples     
+### Second Test!  
 
 ![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
