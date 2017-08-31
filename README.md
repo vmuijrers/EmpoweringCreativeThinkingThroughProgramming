@@ -14,7 +14,7 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 **Email:** valentijn.muijrers@hku.nl 
 
 --
-###Assignments and notes will be posted weekly on github here:
+###Opdrachten en slides kun je wekelijks vinden op deze site:
 	https://github.com/vmuijrers/ECTTP 
 --
 
@@ -22,9 +22,9 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 
 **Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 
-**Student Assistenten:** Abe Vos, Kevin Derksen en Mesut Pehlivan
+**Student Assistents:** 
 
-**Email:** abe.vos@student.hku.nl, kevin.derksen@student.hku.nl, mesut.pehlivan@student.hku.nl
+**Email:** 
 
 
 ###Course Description: 
@@ -38,12 +38,12 @@ This class adheres to the [Open Code of Conduct][code-of-conduct]. By participat
 ---
 
 ###Language: 
-* Python - 3.5.2   
+* Python - 3.6.2   
 	https://www.python.org/downloads/
 	
 ###Software:  
 
-* Processing - 3.2.1 
+* Processing - 3.3.5 
 	https://processing.org/download/?processing 
 
 #####Books
@@ -90,13 +90,13 @@ You are required to attend the lab session listed in your schedule. If you miss 
 #####Week Four: Conditions 
 #####Week Five: Loops 
 #####Week Six: Functions
-#####Week Seven:    
+#####Week Seven: Time for Questions and Extra Examples   
 #####Week Eight: (Files, Exceptions, IO)
 ###First Test!
 #####Week Eleven: Lists   
 #####Week Twelve: Classes and Objects
-#####Week Thirteen:
-#####Week Fourteen:
+#####Week Thirteen: Time for Questions and Extra Examples   
+#####Week Fourteen:Time for Questions and Extra Examples   
 ### Second Test!
 
 ![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
