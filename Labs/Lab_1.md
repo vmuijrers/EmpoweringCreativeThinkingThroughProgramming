@@ -20,6 +20,11 @@ https://www.python.org/downloads/
 Download Processing 3.3.5:
 https://processing.org/download/?processing
 
+Create a new sketch and save it under the name: ECTTP_homework_achternaam_voornaam_labnr
+
+At the right top you will find a dropdown button which says Java, click on it and select Add Mode... type in Python and install the python module (this may require a restart of processing).
+You are now ready to program your first code!
+
 ##Exercise 1_1 
 
 Create a program which prints "Hello World", use the print function to print 
