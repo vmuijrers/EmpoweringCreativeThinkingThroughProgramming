@@ -22,9 +22,9 @@ contacttijd: 36 uur, zelfstudie : 20 uur
 
 **Email:** vincent.booman@hku.nl, aaron.oostdijk@hku.nl, valentijn.muijrers@hku.nl, ton.markus@hku.nl 
 ---
-**Student Assistents:** 
+**Student Assistents:** Sergi van Ravenswaay (1A), Frans Huntink (1B), Ruben Bergshoeff (1C), Marlon Sijnesael (1D)  
 
-**Email:** 
+**Email:** sergi.vanravenswaay@student.hku.nl, frans.huntink@student.hku.nl, ruben.bergshoeff@student.hku.nl, marlon.sijnesael@student.hku.nl
 
 
 Course Description: 
