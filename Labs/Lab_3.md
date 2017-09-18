@@ -37,7 +37,7 @@ When the size of the rectangle is doubled, change the color of the rectangle dep
 
 ##INLEVEREN
 
-##Put all of your code into a single sketch and zip your projectfolder, and submit it online in the tool (check gi1718.hku.nl for the website).
+##Put all of your code into a single sketch and zip your projectfolder, submit it online in the tool (check gi1718.hku.nl for the website).
 
 Zipname:
 ECTTP_homework_<achternaam>_<voornaam>_labnr.zip 
@@ -45,4 +45,4 @@ ECTTP_homework_<achternaam>_<voornaam>_labnr.zip
 
 ##Due Date 
 
-Turn each lab in 24 after the practicum.
+Turn each lab in 24 hours after the practicum.
