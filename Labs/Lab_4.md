@@ -35,7 +35,7 @@ Make sure the rectangle cannot be clicked while it is moving.
 ##Put all of your code into a single sketch and zip your projectfolder, submit it online in the tool (check gi1718.hku.nl for the website).
 
 Zipname:
-ECTTP_homework_<achternaam>_<voornaam>_labnr.zip 
+ECTTP_homework_achternaam_voornaam_labnr.zip 
 (voorbeeld: ECTTP_homework_muijrers_valentijn_4.zip )
 
 ##Due Date 
