@@ -38,7 +38,7 @@ pancakes(6,2000,1000)  -> 30
 pancakes(8,1000,1000)  -> 20
 
 Print example (You can put the print statement in your function, but make sure the function returns just the amount of pancakes):
-"You can make: 30 pancakes, with 6 eggs, 1500 ml milk and 750 grams of flour. You have 0 eggs, 500 ml milk and 250 grams of flower left."
+"You can make: 30 pancakes, with 6 eggs, 1500 ml milk and 750 grams of flour. You have 0 eggs, 500 ml milk and 250 grams of flour left."
 
 
 ##INLEVEREN
