@@ -2,7 +2,7 @@
  
 ##### Due Date 
 
-Turn each lab in within 24 hours after the workgroup by zipping your code and submitting it to the website(visit gi1718.hku.nl, to find the submitpage under programming or check the slides on this github).
+Turn each lab in at the end of the workgroup by zipping your code and submitting it to the website(visit gi1718.hku.nl, to find the submitpage under programming or check the slides on this github).
 
 ##### Grading Matrix 
 
@@ -14,10 +14,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 ##Exercise 1_0 
 
-Download Python 3.6.2: 
-https://www.python.org/downloads/
-
-Download Processing 3.3.5:
+Download Processing 3.4:
 https://processing.org/download/?processing
 
 Create a new sketch and save it under the name: ECTTP_homework_achternaam_voornaam_labnr
