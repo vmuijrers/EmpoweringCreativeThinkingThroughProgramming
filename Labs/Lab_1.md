@@ -2,7 +2,7 @@
  
 ##### Due Date 
 
-Turn each lab in at the end of the workgroup by zipping your code and submitting it to the website(visit gi1718.hku.nl, to find the submitpage under programming or check the slides on this github).
+Turn each lab in at the end of the workgroup by zipping your code and submitting it to the website(visit http://www.elvishasleftthebuilding.nl/geni, to find the submitpage).
 
 ##### Grading Matrix 
 
@@ -12,7 +12,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 *Readability* | The code is exceptionally well organized and very easy to follow. | The code is fairly easy to read. | The code is readable only by someone who knows what it is supposed to be doing.| The code is poorly organized and very difficult to read.|
 
 
-##Exercise 1_0 
+##Basic
 
 Download Processing 3.4:
 https://processing.org/download/?processing
@@ -22,11 +22,9 @@ Create a new sketch and save it under the name: ECTTP_homework_achternaam_voorna
 At the right top you will find a dropdown button which says Java, click on it and select Add Mode... type in Python and install the python module (this may require a restart of processing).
 You are now ready to program your first code!
 
-##Exercise 1_1 
-
 Create a program which prints "Hello World", use the print function to print 
 
-##Exercise 1_2  
+##Advanced
 
 Go to http://py.processing.org/reference/ and look for the function called size()
 Adjust the screen size by using the size function 
@@ -34,6 +32,13 @@ Then look for the rect() function
 Use it to draw a rectangle on your screen
 
 Try storing the numbers you use by making a variable for each number, if you don't know how to create a variable, check the slides or ask the student assistents!
+
+##Expert
+
+Create a variable called xPos which stores the x-position of a rectangle, add one to this variable every frame.
+Draw a rectangle on screen using the xPos variable. You will notice a moving square across the screen.
+To clear the background, you can use the background(<r>,<g>,<b>) function which draws a background with a color. Experiment with the order to see the different effects.
+
 
 When you are done, zip your entire folder and send it to your lab teacher (see top of the page, DO NOT EMAIL YOUR ASSIGNMENT)
 
