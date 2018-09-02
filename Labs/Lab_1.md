@@ -12,7 +12,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 *Readability* | The code is exceptionally well organized and very easy to follow. | The code is fairly easy to read. | The code is readable only by someone who knows what it is supposed to be doing.| The code is poorly organized and very difficult to read.|
 
 
-##Basic
+#### Basic
 
 Download Processing 3.4:
 https://processing.org/download/?processing
@@ -24,16 +24,16 @@ You are now ready to program your first code!
 
 Create a program which prints "Hello World", use the print function to print 
 
-##Advanced
+#### Advanced
 
 Go to http://py.processing.org/reference/ and look for the function called size()
-Adjust the screen size by using the size function 
-Then look for the rect() function
+Adjust the screen size by using the size(width,height) function 
+Then look for the rect(xPos,yPos,width,height) function
 Use it to draw a rectangle on your screen
 
 Try storing the numbers you use by making a variable for each number, if you don't know how to create a variable, check the slides or ask the student assistents!
 
-##Expert
+#### Expert
 
 Create a variable called xPos which stores the x-position of a rectangle, add one to this variable every frame.  
 Draw a rectangle on screen using the xPos variable. You will notice a moving square across the screen.  
