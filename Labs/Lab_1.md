@@ -38,7 +38,7 @@ Try storing the numbers you use by making a variable for each number, if you don
 Create a variable called xPos which stores the x-position of a rectangle, add one to this variable every frame.  
 Draw a rectangle on screen using the xPos variable. You will notice a moving square across the screen.  
 To clear the background, you can use the background(r,g,b) function which draws a background with a colour.  
-Experiment with the order to see the different effects.
+Experiment with the order of drawing the background and the rectangle to see the different effects.
 
 
 When you are done, zip your entire folder and send it to your lab teacher (see top of the page, DO NOT EMAIL YOUR ASSIGNMENT)
