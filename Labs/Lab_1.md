@@ -43,13 +43,13 @@ Experiment with the order of drawing the background and the rectangle to see the
 
 When you are done, zip your entire folder and send it to your lab teacher (see top of the page, DO NOT EMAIL YOUR ASSIGNMENT)
 
-####Are you lost? 
+#### Are you lost? 
 SPEAK UP! We will help you I promise. Don't let this drag on and you are not alone! :) 
 Programming is crazy hard the first time you learn about it.
  
 Why not give this site a try. It's super awesome and very clear. http://www.learnpython.org 
 
-####Are you bored? 
+#### Are you bored? 
 Are you horridly bored? Check out some of the examples in Processing under File > Examples... 
 Pick a category (I recommend Topics/Simulate/Flocking) and try changing some of the values to see what happens
 
