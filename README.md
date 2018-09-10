@@ -79,26 +79,28 @@ http://codingbat.com/python
 
 * To pass the course, at least the Midterm and Final Exam should be passed and your average grade should be equal or larger than 5.5
 
-###Labs
+### Labs
 Each week there will be a lab assignment here in a folder called lab
 
 You are required to attend the lab session listed in your schedule. If you miss more than 3 labs, you must provide a valid reason. More than 3 absences is unacceptable. You will need to do make up work should you miss this many labs. See your lab instructor for more information. There you need to do your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
-###All of the code for each week will be pushed up to github.com here 
+The labs are graded based upon complexity (basic, advanced, expert) and readibility.
 
-#####Week One: Course overview  
-#####Week Two: Variables   
-#####Week Three: Operators  
-#####Week Four: Conditions   
-#####Week Five: Loops   
-#####Week Six: Functions  
-#####Week Seven: Time for Questions and Extra Examples     
-#####Week Eight: (Files, Exceptions, IO)  
-###First Test!  
-#####Week Eleven: Lists     
-#####Week Twelve: Classes and Objects  
-#####Week Thirteen: Time for Questions and Extra Examples     
-#####Week Fourteen:Time for Questions and Extra Examples     
+### All of the code for each week will be pushed up to github.com here 
+
+##### Week One: Course overview  
+##### Week Two: Variables   
+##### Week Three: Operators  
+##### Week Four: Conditions   
+##### Week Five: Loops   
+##### Week Six: Functions  
+##### Week Seven: Time for Questions and Extra Examples     
+##### Week Eight: (Files, Exceptions, IO)  
+### First Test!  
+##### Week Eleven: Lists     
+##### Week Twelve: Classes and Objects  
+##### Week Thirteen: Time for Questions and Extra Examples     
+##### Week Fourteen: Time for Questions and Extra Examples     
 ### Second Test!  
 
-![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
+
