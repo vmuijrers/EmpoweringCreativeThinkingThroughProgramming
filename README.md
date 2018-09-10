@@ -71,7 +71,7 @@ https://www.codecademy.com/en/tracks/python
 Do you want to test your coding skills with challenges?
 http://codingbat.com/python
 
-####Grading: 
+#### Grading: 
 
 * Midterm - 20% of the final grade 
 * Labwork - 40% of the final grade 
@@ -84,7 +84,7 @@ Each week there will be a lab assignment here in a folder called lab
 
 You are required to attend the lab session listed in your schedule. If you miss more than 3 labs, you must provide a valid reason. More than 3 absences is unacceptable. You will need to do make up work should you miss this many labs. See your lab instructor for more information. There you need to do your lab work independently. There will be a teacher or a TA there to help answer any questions you have. 
 
-The labs are graded based upon complexity (basic, advanced, expert) and readibility.
+The labs are graded based upon complexity (basic, advanced, expert) and readibility .
 
 ### All of the code for each week will be pushed up to github.com here 
 
