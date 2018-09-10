@@ -10,12 +10,14 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 ## Basic   
 
 Use the setup() function and the draw() function to draw an orange ellipse to the screen.   
-Use variables for the x, y, ellipseWidth and ellipseHeight.      
+Use variables for the x, y, ellipseWidth and ellipseHeight. 
+Use a variable for the x-position of the ellipse and inside the draw function add 1 to the variable you just created every frame, so that the ellipse starts moving to the right.       
 
 ## Advanced  
 
-Use a variable for the x-position of the ellipse and inside the draw function add 1 to the variable you just created every frame, so that the ellipse starts moving to the right.  
-Use a variable for the width and height of the ellipse and inside the draw function add 1 to the variable you just created every frame, so that the ellipse grows in size.  
+Use a variable for the width and height of the orange ellipse and inside the draw function add 1 to the variable you just created every frame, so that the ellipse grows in size.  
+Create variables for the red, green and blue-colour values of the ellipse and change the colour over time by adding to or subtracting an amount from the values.  
+The colour of your ellipse should change over time.    
 
 ## Expert    
 
