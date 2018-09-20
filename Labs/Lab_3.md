@@ -12,7 +12,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 ## Basic
 
-Use the function KeyPressed() to check whether a key is pressed, and try to make a rectangle move around with the buttons WASD.
+Use the function keyPressed() to check whether a key is pressed, and try to make a rectangle move around with the buttons WASD.
 Note: Check the reference online on how to check if a specific key is pressed (py.processing.org)
 
 ## Advanced  
