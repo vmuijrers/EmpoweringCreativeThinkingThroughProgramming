@@ -12,7 +12,7 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 ## Basic  
 
-Write a program that prints the numbers from 1 to 100.  
+Write a function which prints the numbers 1 to 100.  
 But for multiples of three print `high` instead of the number and for the multiples of five print `five`.  
 For numbers which are multiples of both three and five print `highfive`.
 
@@ -20,6 +20,7 @@ For numbers which are multiples of both three and five print `highfive`.
 
 Create a chessboard with black and white rectangles of size 100x100 on your screen.  
 A chessboard has 8x8 squares alternating between black and white.
+Make use of a for-loop or while-loop.
 
 Hint: You can use the modulo operator to check if a square is odd or even
 
