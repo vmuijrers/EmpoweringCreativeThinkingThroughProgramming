@@ -1,11 +1,11 @@
+## Toets 1:
+
 Regels voor de toets
 - studenten mogen alleen vragen stellen aan de studentassisten/begeleiders, het is niet toegestaan om te communiceren met andere studenten (ook niet via facebook/whatsapp etc.)
 - studenten mogen hun aantekeningen/slides/internet erbij houden om dingen op te zoeken
 - wanneer een student een vraag stelt wordt genoteerd wat voor soort vraag het is (begrip of syntax), dit wordt later meegenomen in de beoordeling
 
 Let op: Lees de vragen eerst goed door en kijk goed naar wat er precies wordt gevraagd als output, je hoeft alleen de definitie van de gevraagde functies te geven, try-except, print en raw_input zijn niet nodig!
-
-### Toets 1:
 
 ## Vraag 1: Loops
 Schrijf een functie genaamd "optelsom(begingetal, eindgetal):", die een integer terug geeft, waarbij het volgende geldt:
