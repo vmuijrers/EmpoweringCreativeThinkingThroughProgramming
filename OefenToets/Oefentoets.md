@@ -5,9 +5,9 @@ Regels voor de toets
 
 Let op: Lees de vragen eerst goed door en kijk goed naar wat er precies wordt gevraagd als output, je hoeft alleen de definitie van de gevraagde functies te geven, try-except, print en raw_input zijn niet nodig!
 
-Toets 1:
+### Toets 1:
 
-Vraag 1: Loops
+## Vraag 1: Loops
 Schrijf een functie genaamd "optelsom(begingetal, eindgetal):", die een integer terug geeft, waarbij het volgende geldt:
 Het begingetal is altijd kleiner dan het eindgetal (hier mag je van uit gaan).
 De functie geeft de som terug van alle tussenliggende getallen, inclusief het begingetal en inclusief het eindgetal.
@@ -17,7 +17,7 @@ optelsom(4,6) > 15
 optelsom(0,4) > 10
 
 
-Vraag 2: Booleans
+## Vraag 2: Booleans
 Schrijf een functie genaamd "def alarm_klok(dag, vakantie):", die een string teruggeeft, waarbij het volgende geldt:  
 Voor de dagen geldt: maandag =1, dinsdag =2, woensdag =3, donderdag =4, vrijdag =5, zaterdag = 6 en zondag =7  
 Als het weekend is (zaterdag of zondag) en we zijn op vakantie dan willen we niet op staan en zetten we het alarm op "off"  
@@ -34,7 +34,7 @@ alarm_klok(3,False) >>> "7:00"
 alarm_klok(7,True) >>> "off"  
 alarm_klok(6,False) >>> "10:00"  
 
-Vraag 3: Modulo  
+## Vraag 3: Modulo  
 Schrijf een functie genaamd "def rondom_tien(nummer):", die een boolean terug geeft, waarbij het volgende geldt:  
 De functie geeft True terug wanneer het nummer (deze is altijd positief) twee of minder verschilt van een tiental (tientallen zijn 0, 10, 20 etc.)  
 In alle andere gevallen geeft de functie False terug.  
@@ -47,7 +47,7 @@ rondom_tien (2) >>> True
 
 Hint: je kunt hierbij de modulo operator (%) gebruiken, welke de rest berekent wanneer twee getallen op elkaar worden gedeeld, dus 12 % 5 = 2  
 
-Vraag 4: Strings  
+## Vraag 4: Strings  
 Schrijf een functie genaamd "def dubbele_letters(woord):", die een string teruggeeft, waarbij elke letter in de originele input wordt herhaald:  
 
 voorbeeld output:  
