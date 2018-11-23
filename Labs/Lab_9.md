@@ -13,7 +13,8 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 Add the Ball-class from the previous lab to your project, add a new parameter called playerNumber and color. 
 Make sure at least two ball objects are instantiated during the setup and give them the correct arguments, one for player 1 (Red) and one for player 2 (Blue).
 Set the PlayerNumbers accordingly.
-Make sure the different colours are shown for each ball and put the balls in a list.
+Make sure the different colours are shown for each ball and put the balls in a list.  
+Make sure you only use the list to control the balls and do not use separate variables for each ball.  
   
 ## Advanced  
 
